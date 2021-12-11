@@ -1,0 +1,22 @@
+{
+  "worker0": {
+    "source1": "./yolov5_DeepSort/inference/input/部分违停.mp4",
+    "source2": "./yolov5_DeepSort/inference/input/mot_1min.mp4",
+    "source3": "./yolov5_DeepSort/inference/input/mot_1min.mp4"
+  },
+  "worker1": {
+    "source1": "./yolov5_DeepSort/inference/input/部分违停.mp4",
+    "source2": "./yolov5_DeepSort/inference/input/mot_1min.mp4",
+    "source3": "./yolov5_DeepSort/inference/input/mot_1min.mp4"
+  },
+  "worker2": {
+    "source1": "",
+    "source2": "",
+    "source3": ""
+  },
+  "worker3": {
+    "source1": "",
+    "source2": "",
+    "source3": ""
+  }
+}

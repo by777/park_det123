@@ -1,0 +1,9 @@
+{
+  "source": "./yolov5_DeepSort/inference/input/mot_1min.mp4",
+  "weights": "./yolov5_DeepSort/yolov5/weights/yolov5s.pt",
+  "device": "cpu",
+  "eventType": 0,
+  "add_event_url": "http://119.45.231.236:8085/event/addEvent",
+  "eventPoint": "A",
+  "upload_img_url": "http://119.45.231.236:8085/event/upload"
+}
